@@ -83,3 +83,9 @@ smart-traffic-management-system/
 ```
 ---
 
+# License
+This project is licensed under the MIT License.
+
+---
+
+Real-Time Data Engineering & Streaming Analytics Project.
