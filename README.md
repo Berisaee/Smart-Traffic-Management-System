@@ -1,10 +1,11 @@
 # Smart Traffic Management System
 
+## Overview
 A real-time Smart Traffic Management System built using **Apache Kafka**, **Apache Spark Streaming**, **MongoDB**, and **Flask APIs** to simulate and process live traffic events, monitor congestion, optimize traffic signals, and prioritize emergency vehicles.
 
 ---
 
-# Project Overview
+# Problem Statement
 This project simulates a smart city traffic control system where traffic data is continuously generated, streamed through Kafka, processed in real-time using Spark Streaming, stored in MongoDB, and exposed through Flask REST APIs for analytics and monitoring.
 
 The system supports:
@@ -57,6 +58,19 @@ Traffic Simulator (Kafka Producer)
 
 ---
 
+# Technologies Used
+## Programming Languages
+ *Python
+
+ ## Frameworks & Libraries
+*Flask
+*PySpark
+*Kafka-Python
+*PyMongo
+
+## Databases
+ *MongoDB
+
 # Project Structure
 
 ```text
@@ -81,11 +95,3 @@ smart-traffic-management-system/
 ├── .gitignore
 └── LICENSE
 ```
----
-
-# License
-This project is licensed under the MIT License.
-
----
-
-Real-Time Data Engineering & Streaming Analytics Project.
