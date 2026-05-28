@@ -60,16 +60,16 @@ Traffic Simulator (Kafka Producer)
 
 # Technologies Used
 ## Programming Languages
- *Python
+ * Python
 
  ## Frameworks & Libraries
-*Flask
-*PySpark
-*Kafka-Python
-*PyMongo
+* Flask
+* PySpark
+* Kafka-Python
+* PyMongo
 
 ## Databases
- *MongoDB
+ * MongoDB
 
 # Project Structure
 
